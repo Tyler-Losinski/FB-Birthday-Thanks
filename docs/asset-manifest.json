@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.45bc6b4e.chunk.css",
-  "main.js": "/static/js/main.06262e4e.chunk.js",
-  "main.js.map": "/static/js/main.06262e4e.chunk.js.map",
-  "static/js/1.781fda0f.chunk.js": "/static/js/1.781fda0f.chunk.js",
-  "static/js/1.781fda0f.chunk.js.map": "/static/js/1.781fda0f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.45bc6b4e.chunk.css.map": "/static/css/main.45bc6b4e.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.4edc1abd62e6946d0159ec8c4037c765.js": "/precache-manifest.4edc1abd62e6946d0159ec8c4037c765.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/FB-Birthday-Thanks/static/css/main.e726bf4b.chunk.css",
+  "main.js": "/FB-Birthday-Thanks/static/js/main.fc0ada56.chunk.js",
+  "main.js.map": "/FB-Birthday-Thanks/static/js/main.fc0ada56.chunk.js.map",
+  "static/js/1.781fda0f.chunk.js": "/FB-Birthday-Thanks/static/js/1.781fda0f.chunk.js",
+  "static/js/1.781fda0f.chunk.js.map": "/FB-Birthday-Thanks/static/js/1.781fda0f.chunk.js.map",
+  "runtime~main.js": "/FB-Birthday-Thanks/static/js/runtime~main.6284ce99.js",
+  "runtime~main.js.map": "/FB-Birthday-Thanks/static/js/runtime~main.6284ce99.js.map",
+  "static/css/main.e726bf4b.chunk.css.map": "/FB-Birthday-Thanks/static/css/main.e726bf4b.chunk.css.map",
+  "index.html": "/FB-Birthday-Thanks/index.html",
+  "precache-manifest.89d155c503fa50dc3b6ecff2d67733f6.js": "/FB-Birthday-Thanks/precache-manifest.89d155c503fa50dc3b6ecff2d67733f6.js",
+  "service-worker.js": "/FB-Birthday-Thanks/service-worker.js"
 }
