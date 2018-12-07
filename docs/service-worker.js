@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FB-Birthday-Thanks/precache-manifest.89d155c503fa50dc3b6ecff2d67733f6.js"
+  "/FB-Birthday-Thanks/docs/precache-manifest.4ce513b1bf14fa5b81da2a7394256064.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FB-Birthday-Thanks/index.html", {
+workbox.routing.registerNavigationRoute("/FB-Birthday-Thanks/docs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

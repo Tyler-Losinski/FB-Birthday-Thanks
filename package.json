@@ -2,7 +2,7 @@
   "name": "facebook_bday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tyler-losinski.github.io/FB-Birthday-Thanks/",
+  "homepage": "https://tyler-losinski.github.io/FB-Birthday-Thanks/docs/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
